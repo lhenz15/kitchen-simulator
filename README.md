@@ -21,5 +21,23 @@ Enum to represent the type of Menus.
 ## entities.Menu
 Class to represent the list of products in stock.
 
+## entities.OrderStatus
+Enum to represent the condition of an order.
+
+## entities.OrderTax
+Enum to represent the different orderTaxes that could be applied to an order.
+
+## entities.OrderComplexity
+Class to represent the complexity of an order.
+
+## entities.OrderDetail
+Class to represent the products and the orderTaxes presents in an order.
+
+## entities.OrderPayment
+Abstract class to represent the amount to pay on an order.
+
+## entities.Order
+Class to represent the products consumed by the customers.
+
 ## UML Class Diagram
-![KitchenSimulatorUML](https://user-images.githubusercontent.com/12875895/162286336-c6e8c7b6-cf9b-4407-bb15-1ffac558d2c5.jpg)
+![KitchenSimulatorUML](https://user-images.githubusercontent.com/12875895/162295875-7390adb2-fb07-405a-8fc7-223d6630d924.jpg)
