@@ -40,4 +40,4 @@ Abstract class to represent the amount to pay on an order.
 Class to represent the products consumed by the customers.
 
 ## UML Class Diagram
-![KitchenSimulatorUML](https://user-images.githubusercontent.com/12875895/162295875-7390adb2-fb07-405a-8fc7-223d6630d924.jpg)
+![KitchenSimulatorUML](https://user-images.githubusercontent.com/12875895/162305016-b951897b-f283-40d9-8fa6-295de6e34ae7.jpg)
