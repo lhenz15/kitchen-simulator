@@ -15,6 +15,11 @@ Enum to represent the type of Products.
 ## entities.Product
 Class used to represent dishes, desserts, drinks and other specialties.
 
-## UML Class Diagram
-![KitchenSimulatorUML](https://user-images.githubusercontent.com/12875895/162283354-37a8d195-c79d-4af8-8104-5408afdcd8ee.jpg)
+## entities.MenuType
+Enum to represent the type of Menus.
 
+## entities.Menu
+Class to represent the list of products in stock.
+
+## UML Class Diagram
+![KitchenSimulatorUML](https://user-images.githubusercontent.com/12875895/162286336-c6e8c7b6-cf9b-4407-bb15-1ffac558d2c5.jpg)
