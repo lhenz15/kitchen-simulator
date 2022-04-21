@@ -51,5 +51,8 @@ Enum to represent the experience of a chef.
 ## entities.Chef
 Class to represent to employee of type "Chef".
 
+## entities.Waiter
+Class to represent to employee of type "Waiter".
+
 ## UML Class Diagram
-![KitchenSimulatorUML](https://user-images.githubusercontent.com/12875895/164526050-9a63b4d0-d89e-486c-84fd-2bdc16d1e667.jpg)
+![KitchenSimulatorUML-2](https://user-images.githubusercontent.com/12875895/164526634-d24c9116-f4e1-475e-992b-ed73e4296c40.jpg)
