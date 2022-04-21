@@ -39,5 +39,20 @@ Abstract class to represent the amount to pay on an order.
 ## entities.Order
 Class to represent the products consumed by the customers.
 
+## entities.EmployeeStatus
+Enum to represent the condition of an employee.
+
+## entities.Employee
+Class to represent the persons that interact with the orders in the restaurant.
+
+## entities.ChefExperience
+Enum to represent the experience of a chef.
+
+## entities.Chef
+Class to represent to employee of type "Chef".
+
+## entities.Waiter
+Class to represent to employee of type "Waiter".
+
 ## UML Class Diagram
-![KitchenSimulatorUML](https://user-images.githubusercontent.com/12875895/162305016-b951897b-f283-40d9-8fa6-295de6e34ae7.jpg)
+![KitchenSimulatorUML-2](https://user-images.githubusercontent.com/12875895/164526634-d24c9116-f4e1-475e-992b-ed73e4296c40.jpg)
